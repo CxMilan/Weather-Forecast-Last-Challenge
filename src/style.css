@@ -71,8 +71,8 @@ main {
 }
 
 .weather-app-icon {
-  width: 88px;
-  height: 88px;
+  width: 90px;
+  height: 90px;
 }
 
 .weather-app-temperature {
@@ -101,11 +101,12 @@ main {
 }
 
 .weather-forecast-icon {
-  width: 88px;
-  height: 88px;
+  width: 90px;
+  height: 90px;
   display: block;
   margin: 0 auto;
 }
+
 .weather-forecast-temperatures {
   text-align: center;
   color: #f65282;
